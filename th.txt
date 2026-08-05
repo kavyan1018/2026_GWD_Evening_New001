@@ -1,0 +1,42 @@
+css -> cascading style sheets
+css -> Design the web pages   
+
+
+div 
+    -> Block level container
+
+span 
+    -> Inline level container
+
+class 
+    ->  it use to aaply the same css in multiple elements
+
+id 
+    -> it use to apply the same css in a single element 
+
+---------------------------------------------------------
+
+How many ways to apply CSS to HTML?
+1. Inline CSS -> tag apply the css in the same tag
+2. Internal CSS -> html css apply in the head tag   -> style tag
+3. External CSS -> html css apply in the external file and link it to the html file using link tag  -> .css
+
+
+---------------------------------------------------------
+
+synatax of css
+
+selector
+{
+
+    property : value;
+    property : value;
+    property : value;
+    property : value;
+    property : value;
+}
+
+
+selector : id(#(hash)), class(.(dot)), tag
+
+    
